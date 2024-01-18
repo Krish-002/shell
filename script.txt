@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Hello, Terminal!"
+echo "This is a simple scriptable file."
